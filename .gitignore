@@ -1,2 +1,4 @@
 internal/db/isosim.bdb
+cmd/isoserver/isoserver
+cmd/isosim/isosim
 
